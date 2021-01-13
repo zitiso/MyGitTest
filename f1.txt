@@ -11,3 +11,4 @@ Today is Aug 6  - great day for learningls
 Aug 7 2020 - woohoo! it's the weekend!!!
 Awesome git stuff today
 TGIF It's the weekend
+text
