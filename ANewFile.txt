@@ -1,2 +1,3 @@
 new file
 Additional code
+Today is greatcat ANewFile.txt 
